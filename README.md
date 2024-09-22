@@ -63,6 +63,6 @@ Create a new Pull Request, and we’ll review your changes.
 <br>🌍 Contact Us
 For any queries or collaboration requests, reach out to us at: <br>
 
-Email: horizonseven@gmail.com <br>
+Email: contact.horizonseven@gmail.com <br>
 GitHub: QuantumCoderrr <br>
 Team: Horizon Seven
